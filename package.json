@@ -1,0 +1,23 @@
+{
+  "name": "edison",
+  "version": "1.0.0",
+  "description": "Boilerplate for bsaq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/bsaq/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinaryStudioAcademy/edison.git"
+  },
+  "author": "Binary Studio Academy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BinaryStudioAcademy/edison/issues"
+  },
+  "homepage": "https://github.com/BinaryStudioAcademy/edison#readme",
+  "dependencies": {
+    "bsaq": "^0.4.3"
+  }
+}
