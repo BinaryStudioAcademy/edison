@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node node_modules/bsaq/index.js"
+    "start": "npm i bsaq@latest & node node_modules/bsaq/index.js"
   },
   "repository": {
     "type": "git",
