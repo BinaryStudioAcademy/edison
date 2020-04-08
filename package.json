@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/BinaryStudioAcademy/edison#readme",
   "dependencies": {
-    "bsaq": "^0.7.0"
+    "bsaq": "^1.1.0"
   }
 }
